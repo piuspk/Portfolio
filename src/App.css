@@ -1,38 +1,52 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  @import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Poppins&display=swap');
+
+  :root{
+    --primary-white: #dad1d1;
+    --primary-dark:rgba(255,255,255,0);
   }
+body
+{
+font-family: 'Exo 2', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+/* ......navbar....... */
+.logo{
+  width: 6.25rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* navbar_link */
+nav a.nav-link{
+  /* font-weight:  500; */
+  letter-spacing: 0.038;
+  cursor: pointer;
+
+
+}
+nav ul li{
+  text-transform: uppercase;
+}
+.navbar-nav >li>a{
+  margin-right: 0.80rem;
+  margin-left: 0.80rem;
+  color:var(--primary-white) !important;
+  border-top:0.1800rem solid var(--primary-dark);
+}
+.navbar-nav >li>a.active,.navbar-nav >li>a.active:focus{
+ border-top:0.1800rem solid var(--primary-white);
+}
+.navbar-nav >li>a:hover{
+ border-top:0.1800rem solid var(--primary-white);
 }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+.navbar-brand{
+  max-width: 17.25rem;
+  padding:1.5rem !important;
+  height:6rem !important;
+}
+.hamburbger{
+  color:#dad1d1;
 }
