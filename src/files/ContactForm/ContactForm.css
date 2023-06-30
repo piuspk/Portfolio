@@ -53,7 +53,7 @@ body{
     font-weight: 600;
     color: #e9dbdb;
     cursor: pointer;
-    font-size:0.rem;
+    font-size: 1rem;
     /* width: 50%; */
 }
 .contact-form .btnContact:hover{
@@ -76,7 +76,7 @@ body{
     } */
   }
   /* Mobile devices */
-@media (max-width: 750px) {
+@media (max-width: 600px) {
     .contact-form {
       width: 90%;
       margin-top: 20%;
@@ -95,7 +95,7 @@ body{
   
   
   /* Tablets and small desktops */
-  @media (max-width: 768px) {
+  @media (max-width: 800px) {
     .contact-image img {
       width: 20%;
     }

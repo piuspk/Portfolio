@@ -2,6 +2,7 @@
   position: relative;
   height: 90vh;
   overflow: hidden;
+  background: #000000;
 }
 
 .background-overlay {
@@ -44,19 +45,19 @@
 }
 @media(max-width:768px){
   .main-info h1{
-    font-size: 1.7rem !important;
+    font-size: 1.9rem !important;
   }
   .main-info h6{
-    font-size: 0.7rem !important; 
+    font-size: 0.8rem !important; 
   }
   .typed-text{
     font-size: 1.6rem !important; 
   }
   .btn-main-offer{
-    font-size: 0.7rem !important; 
+    font-size: 0.8rem !important; 
   }
   .btn-my-work{
-    font-size:0.7rem !important; 
+    font-size:0.8rem !important; 
   }
   .navbar-brand{
     width: 7rem !important; 
