@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Poppins&display=swap');
+
+:root{
+  --primary-white: #ffffff;
+  --primary-orange: #bc5c09;
+  --primary-dark:rgba(255,255,255,0);
+    
+}
+body
+{
+font-family: 'Exo 2', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+/* ......navbar....... */
+.logo{
+width: 6.25rem;
+}
+
+/* navbar_link */
+nav a.nav-link{
+/* font-weight:  500; */
+letter-spacing: 0.038;
+cursor: pointer;
+
+
+}
+nav ul li{
+text-transform: uppercase;
+}
+.navbar-nav >li>a{
+margin-right: 0.80rem;
+margin-left: 0.80rem;
+color:rgb(154, 162, 162);
+border-top:0.1800rem solid var(--primary-dark);
+}
+.navbar-nav >li>a.active,.navbar-nav >li>a.active:focus{
+border-top:0.1800rem solid var(--primary-white);
+}
+.navbar-nav >li>a:hover{
+border-top:0.1800rem solid var(--primary-white);
+}
+
+
+
+.navbar-brand{
+max-width: 17.25rem;
+padding:1rem !important;  
+/* padding-right: 2rem !important; */
+height:5.4rem !important;
+}
+.hamburbger{
+color:#dad1d1;
+}

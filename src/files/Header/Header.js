@@ -1,6 +1,6 @@
 import React from 'react';
 import Typed from 'react-typed';
-
+ import './Header.css';
 
 const Header = () => {
   return (
@@ -8,8 +8,8 @@ const Header = () => {
       <div className="background-overlay"></div>
       
       <div className="main-info">
-        <h1>Hello! I am Piyush</h1>
-        <h6>CSE Undergraduate at IIT Ropar</h6>
+        <h1>Hello👋! I am Piyush</h1>
+        <h6>CSE Undergraduate at IIT Ropar🎓</h6>
         <Typed
           className="typed-text"
           strings={["Graphic Designing", "Photography", "Web designing"]}
