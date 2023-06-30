@@ -52,6 +52,15 @@ const Skills = () => {
                 <FaPaintBrush /> Adobe Lightroom
               </li>
             </ul>
+            
+            <ul>
+             
+              
+             
+            <span>Check out my collection of photos! They have been beautifully manipulated, edited, and captured pictures. Visit my 👉 <a href="http://piuspk.github.io/Ragnar_creation/">WEBSITE</a> to explore the collection.</span>
+
+             
+            </ul>
           </div>
         </div>
       </div>
