@@ -32,10 +32,13 @@ const Skills = () => {
                 <FaCode /> CSS
               </li>
               <li>
-                <FaCode /> Bootstrap
+                <FaLaptopCode /> React
               </li>
               <li>
                 <FaLaptopCode /> JavaScript
+              </li>
+              <li>
+                <FaCode /> Bootstrap
               </li>
             </ul>
           </div>
