@@ -10,6 +10,13 @@ body{
     font-family: 'Exo 2', sans-serif;
     width: 70%;
 }
+.success-message {
+    font-family: "Exo 2", sans-serif;
+    text-align: center;
+    color: green;
+    margin-top: 0;
+  }
+  
 .contact-form .form-control{
     border-radius:1rem;
     margin: 5%;

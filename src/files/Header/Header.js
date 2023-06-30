@@ -19,7 +19,7 @@ const Header = () => {
         />
         <br/>
         <span>
-          <a href="#" className="btn-main-offer">Contact</a>
+          <a href="#contacts" className="btn-main-offer">Contact</a>
           <a href="#" className="btn-my-work">My Work</a>
         </span>
       </div>

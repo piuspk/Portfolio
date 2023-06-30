@@ -45,6 +45,12 @@ const Skills = () => {
               <li>
                 <FaPaintBrush /> Photoshop
               </li>
+              <li>
+                <FaPaintBrush /> Adobe illustrator
+              </li>
+              <li>
+                <FaPaintBrush /> Adobe Lightroom
+              </li>
             </ul>
           </div>
         </div>

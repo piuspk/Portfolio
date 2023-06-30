@@ -23,7 +23,7 @@ function ContactForm() {
         />
       </div>
       <form ref={formRef} onSubmit={handleFormSubmit}>
-        <h3>Drop Us a Message</h3>
+        <h3>Drop a Message</h3>
         <div className="row">
           <div className="col-md-6">
             <div className="form-group">
@@ -49,8 +49,8 @@ function ContactForm() {
                 type="tel"
                 name="phone"
                 className="form-control"
-                placeholder="Your Phone Number *"
-                required
+                placeholder="Phone Number(optional) "
+                // required
               />
             </div>
           </div>
