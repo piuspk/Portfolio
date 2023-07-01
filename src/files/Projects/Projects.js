@@ -34,7 +34,7 @@ educational experience for users to understand sorting algorithms such as Quick 
             </div>
           </div>
           <div className="project">
-            <h3>RMQ Implementstion Using Sparse Table</h3>
+            <h3>RMQ Implementation Using Sparse Table</h3>
             <p>The project implements RMQ (Range Minimum/Maximum Query) using the Sparse Table, a data structure with efficient O(1) runtime for solving static range query problems like minimum and maximum queries.</p>
             <div className="buttons-container">
               <a href="https://github.com/piuspk/cs201_project" className="btn-github">
