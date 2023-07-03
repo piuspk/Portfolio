@@ -60,7 +60,7 @@ const Skills = () => {
              
               
              
-            <span>Check out my collection of photos! They have been beautifully manipulated, edited, and captured pictures. Visit my 👉 <a href="http://piuspk.github.io/Ragnar_creation/">WEBSITE</a> to explore the collection.</span>
+            <span>Check out my collection of photos! They have been beautifully manipulated, edited, and captured pictures. Visit my 👉 <a href="http://piuspk.github.io/Ragnar_creation/" target="_blank">WEBSITE</a> to explore the collection.</span>
 
              
             </ul>
