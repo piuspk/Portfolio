@@ -18,6 +18,9 @@ const Skills = () => {
                 <FaCode /> C++
               </li>
               <li>
+                <FaCode /> Python
+              </li>
+              <li>
                 <FaLaptopCode /> JavaScript
               </li>
             </ul>
@@ -26,10 +29,7 @@ const Skills = () => {
             <h3>Web Development</h3>
             <ul>
               <li>
-                <FaCode /> HTML
-              </li>
-              <li>
-                <FaCode /> CSS
+                <FaLaptopCode /> HTML, CSS
               </li>
               <li>
                 <FaLaptopCode /> React
@@ -38,7 +38,13 @@ const Skills = () => {
                 <FaLaptopCode /> JavaScript
               </li>
               <li>
-                <FaCode /> Bootstrap
+                <FaLaptopCode /> Bootstrap
+              </li>
+              <li>
+                <FaLaptopCode /> Backend Developer
+              </li>
+              <li>
+                <FaLaptopCode /> Node.js, Express
               </li>
             </ul>
           </div>
@@ -46,7 +52,7 @@ const Skills = () => {
             <h3>Graphic Designing</h3>
             <ul>
               <li>
-                <FaPaintBrush /> Photoshop
+                <FaPaintBrush /> Adobe Photoshop
               </li>
               <li>
                 <FaPaintBrush /> Adobe illustrator

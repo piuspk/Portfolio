@@ -15,10 +15,10 @@ function ContactForm() {
   };
 
   return (
-    <div id="contact" className="container contact-form">
+    <div id="contact" className="container contact-form"> 
       <div className="contact-image">
         <img
-          src="https://image.ibb.co/kUagtU/rocket_contact.png"
+          src="https://tse3.mm.bing.net/th?id=OIP.kj8oKsEJDwncYmjegBy6QwHaHa&pid=Api&P=0&h=180"
           alt="rocket_contact"
         />
       </div>
@@ -60,7 +60,7 @@ function ContactForm() {
                 name="message"
                 className="form-control"
                 placeholder="Your Message *"
-                style={{ width: "100%", height: "150px" }}
+                style={{ width: "100%", height: "150px"  }}
                 required
               ></textarea>
             </div>
