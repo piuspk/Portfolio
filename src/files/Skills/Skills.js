@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaCode, FaLaptopCode, FaPaintBrush } from 'react-icons/fa';
-import './Skills.css';
+import './Skills.css'; 
 
 const Skills = () => {
   return (
