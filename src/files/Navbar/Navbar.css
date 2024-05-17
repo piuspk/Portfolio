@@ -31,7 +31,7 @@ text-transform: uppercase;
 .navbar-nav >li>a{
 margin-right: 0.80rem;
 margin-left: 0.80rem;
-color:rgb(154, 162, 162);
+color:rgb(50, 116, 167);
 border-top:0.1800rem solid var(--primary-dark);
 }
 .navbar-nav >li>a.active,.navbar-nav >li>a.active:focus{

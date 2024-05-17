@@ -29,16 +29,16 @@ const Skills = () => {
             <h3>Web Development</h3>
             <ul>
               <li>
-                <FaLaptopCode /> HTML, CSS
+                <FaLaptopCode /> HTML, CSS, Material-UI, GASP
               </li>
               <li>
-                <FaLaptopCode /> React
+                <FaLaptopCode /> React, Next-JS
               </li>
               <li>
                 <FaLaptopCode /> JavaScript
               </li>
               <li>
-                <FaLaptopCode /> Bootstrap
+                <FaLaptopCode /> Bootstrap, Tailwind
               </li>
               <li>
                 <FaLaptopCode /> Backend Developer
@@ -58,7 +58,7 @@ const Skills = () => {
                 <FaPaintBrush /> Adobe illustrator
               </li>
               <li>
-                <FaPaintBrush /> Adobe Lightroom
+                <FaPaintBrush /> Adobe Lightroom!
               </li>
             </ul>
             

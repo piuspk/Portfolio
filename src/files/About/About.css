@@ -10,7 +10,7 @@ body
  
 font-family: 'Exo 2', sans-serif;
 font-family: 'Poppins', sans-serif;
-background: -webkit-linear-gradient(left, #000000, #00c6ff);
+background: -webkit-linear-gradient(left, #000000, #016531);
 }
 
 .about-section {
@@ -47,8 +47,8 @@ background: -webkit-linear-gradient(left, #000000, #00c6ff);
     max-width: 500px;
     height: auto;
     margin-top: 1rem;
-    border-radius: 50% / 30% 70%; /* Adjust the values to create the desired elliptical shape */
-    box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+    border-radius: 50% / 15% 70%; /* Adjust the values to create the desired elliptical shape */
+    box-shadow: 0 0 20px rgba(50, 7, 7, 0.5);
   }
   
   

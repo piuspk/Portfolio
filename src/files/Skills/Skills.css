@@ -2,7 +2,7 @@ body{
   width: 100%;
   margin:0;
   padding: 0;
-  background: -webkit-linear-gradient(left, #000000, #00c6ff);
+  background: -webkit-linear-gradient(left, #000000, #15ff00);
 }
 .skills-section {
     /* background-color: #000; */
@@ -27,7 +27,7 @@ body{
     border: 1px solid #ccc;
     padding: 1.5rem;
     border-radius: 0.5rem;
-    background-color: #111;
+    background-color: #111111;
   }
   .skills-category h3 {
     font-size: 1.5rem;

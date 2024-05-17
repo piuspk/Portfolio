@@ -9,6 +9,65 @@ const Projects = () => {
         <h2>Projects</h2>
         <div className="projects-container">
           <div className="project">
+            <h3> RISC-V Simulator Architecture Project</h3>
+            <p>
+              The RISC-V Simulator Architecture Project focused on creating a
+              simulator for running programs based on the RISC-V-32I Instruction
+              Set Architecture (ISA).
+            </p>
+            <div className="buttons-container">
+              <a
+                href="https://github.com/Anshul091/RISCV-5-architecture"
+                className="btn-github"
+              >
+                <FaGithub /> GitHub
+              </a>
+              {/* <a href="#" className="btn-website">
+                <FaExternalLinkAlt /> Website
+              </a> */}
+            </div>
+          </div>
+          <div className="project">
+            <h3>Tracker-X</h3>
+            <p>
+            TrackerX is a comprehensive project management platform, centralizing and enhancing software project workflows. It offers real-time tracking, progress monitoring, and promotes team collaboration. With its layered architecture and automated tools.
+            </p>
+            <div className="buttons-container">
+              <a
+                href="https://github.com/piuspk/SE_Project-Management-Software"
+                className="btn-github"
+              >
+                <FaGithub /> GitHub
+              </a>
+              {/* <a href="#" className="btn-website">
+                <FaExternalLinkAlt /> Website
+              </a> */}
+            </div>
+          </div>
+          <div className="project">
+            <h3>Snehita Well-Being</h3>
+            <p>
+              This project is built using the MERN stack and aims to address
+              mental health issues among IIT Ropar students by providing a
+              platform with various features including blogs, fun quizzes,
+              appointments, a homepage, team page, etc. .
+            </p>
+            <div className="buttons-container">
+              <a
+                href="https://github.com/piuspk/SnehitaWellBeing"
+                className="btn-github"
+              >
+                <FaGithub /> GitHub
+              </a>
+              <a
+                href="https://snehita-well-being.vercel.app/"
+                className="btn-website"
+              >
+                <FaExternalLinkAlt /> Website
+              </a>
+            </div>
+          </div>
+          <div className="project">
             <h3>Sorting Visualizer </h3>
             <p>
               The website provided an interactive and educational experience for
@@ -28,25 +87,6 @@ const Projects = () => {
               >
                 <FaExternalLinkAlt /> Website
               </a>
-            </div>
-          </div>
-          <div className="project">
-            <h3> RISC-V Simulator Architecture Project</h3>
-            <p>
-              The RISC-V Simulator Architecture Project focused on creating a
-              simulator for running programs based on the RISC-V-32I Instruction
-              Set Architecture (ISA).
-            </p>
-            <div className="buttons-container">
-              <a
-                href="https://github.com/Anshul091/RISCV-5-architecture"
-                className="btn-github"
-              >
-                <FaGithub /> GitHub
-              </a>
-              {/* <a href="#" className="btn-website">
-                <FaExternalLinkAlt /> Website
-              </a> */}
             </div>
           </div>
 
